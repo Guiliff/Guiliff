@@ -2,7 +2,7 @@
 
 🎓 Bacharel em Economia, atualmente expandindo meus horizontes com pós-graduações em **Engenharia da Computação** e **Metaverso, Cloud e IoT**.  
 💻 Apaixonado por tecnologia, atualmente estudo **sistemas embarcados**, **sistemas operacionais** e desenvolvimento de distros — com um projeto próprio de criação de uma ISO focada em **liberdade**, **privacidade** e **usabilidade, mesmo para iniciantes**.  
-🐧 Entusiasta do mundo **Linux**, sem abandonar o **Windows** quando necessário.
+🐧 Entusiasta do mundo **Linux**.
 
 ---
 
