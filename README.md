@@ -1,12 +1,12 @@
-# 👋 Olá! Sou Guilherme Licodiedoff
+\\ 👋 Olá! Sou Guilherme Licodiedoff
 
-🎓 Bacharel em Economia, atualmente expandindo meus horizontes com pós-graduações em **Engenharia da Computação** e **Metaverso, Cloud e IoT**.  
-💻 Apaixonado por tecnologia, atualmente estudo **sistemas embarcados**, **sistemas operacionais** e desenvolvimento de distros — com um projeto próprio de criação de uma ISO focada em **liberdade**, **privacidade** e **usabilidade, mesmo para iniciantes**.  
+🎓 Bacharel em Economia, atualmente expandindo meus horizontes com duas pós-graduações: **Engenharia da Computação** e **Metaverso, Cloud e IoT**.  
+💻 Apaixonado por tecnologia, focando meus estudos em **sistemas embarcados**, **sistemas operacionais** e desenvolvimento de distros — com um projeto próprio de criação de uma ISO focada em **liberdade**, **privacidade** e **usabilidade, mesmo para iniciantes**.  
 🐧 Entusiasta do mundo **Linux**.
 
 ---
 
-## 🧠 Tecnologias em Estudo
+\\ 🧠 Tecnologias em Estudo
 
 Atualmente focado em aprender e desenvolver projetos com as seguintes tecnologias:
 
@@ -17,7 +17,7 @@ Atualmente focado em aprender e desenvolver projetos com as seguintes tecnologia
 
 ---
 
-## 🖥️ Sistemas Operacionais
+\\ 🖥️ Sistemas Operacionais
 
 Minha experiência abrange os seguintes sistemas operacionais e distros:
 
@@ -28,7 +28,7 @@ Minha experiência abrange os seguintes sistemas operacionais e distros:
 
 ---
 
-## 📊 Estatísticas do GitHub
+\\ 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guiliff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
