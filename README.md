@@ -26,7 +26,7 @@ Minha experiência abrange os seguintes sistemas operacionais e distros:
 ![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-------
+---
 
 ## 📊 Estatísticas do GitHub
 
