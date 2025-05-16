@@ -26,7 +26,7 @@ Minha experiência abrange os seguintes sistemas operacionais e distros:
 ![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
----
+------
 
 ## 📊 Estatísticas do GitHub
 
@@ -34,3 +34,7 @@ Minha experiência abrange os seguintes sistemas operacionais e distros:
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guiliff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiliff&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
+
+![Lines of Code](https://img.shields.io/tokei/lines/github/Guiliff/labs-c)
+
+---
