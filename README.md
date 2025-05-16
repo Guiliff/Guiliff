@@ -35,6 +35,4 @@ Minha experiência abrange os seguintes sistemas operacionais e distros:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiliff&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 
-![Lines of Code](https://img.shields.io/tokei/lines/github/Guiliff/labs-c)
-
 ---
