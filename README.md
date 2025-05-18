@@ -1,14 +1,12 @@
-## Olá! Sou Guilherme Licodiedoff
-
-🎓 Bacharel em Economia, atualmente expandindo meus horizontes com duas pós-graduações: **Engenharia da Computação** e **Metaverso, Cloud e IoT**.  
-💻 Apaixonado por tecnologia, focando meus estudos em **sistemas embarcados**, **sistemas operacionais** e desenvolvimento de distros — com um projeto próprio de criação de uma ISO focada em **liberdade**, **privacidade** e **usabilidade, mesmo para iniciantes**.  
-🐧 Entusiasta do mundo **Linux**.
+## Hello! I'm Guilherme Licodiedoff
+🎓 I hold a Bachelor's degree in Economics and am currently expanding my knowledge through two postgraduate programs: Computer Engineering and Metaverse, Cloud & IoT.
+💻 I'm passionate about technology, with a strong focus on embedded systems, operating systems, and the development of Linux distributions — including a personal project to create a custom ISO focused on freedom, privacy, and usability, even for beginners.
+🐧 Enthusiast of the Linux ecosystem.
 
 ---
 
-## 🧠 Tecnologias em Estudo
-
-Atualmente focado em aprender e desenvolver projetos com as seguintes tecnologias:
+## 🧠 Technologies I'm Exploring
+I'm currently learning and building projects with the following technologies:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -17,9 +15,8 @@ Atualmente focado em aprender e desenvolver projetos com as seguintes tecnologia
 
 ---
 
-## 🖥️ Sistemas Operacionais
-
-Minha experiência abrange os seguintes sistemas operacionais e distros:
+## Operating Systems & Distros
+I have experience with the following operating systems and Linux distributions:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -28,11 +25,7 @@ Minha experiência abrange os seguintes sistemas operacionais e distros:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guiliff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiliff&layout=compact&langs_count=8&theme=github_dark"/>
-</div>
+<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guiliff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiliff&layout=compact&langs_count=8&theme=github_dark"/> </div>
 
----
