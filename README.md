@@ -1,4 +1,4 @@
-## 👋 Olá! Sou Guilherme Licodiedoff
+##Olá! Sou Guilherme Licodiedoff
 
 🎓 Bacharel em Economia, atualmente expandindo meus horizontes com duas pós-graduações: **Engenharia da Computação** e **Metaverso, Cloud e IoT**.  
 💻 Apaixonado por tecnologia, focando meus estudos em **sistemas embarcados**, **sistemas operacionais** e desenvolvimento de distros — com um projeto próprio de criação de uma ISO focada em **liberdade**, **privacidade** e **usabilidade, mesmo para iniciantes**.  
