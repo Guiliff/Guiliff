@@ -34,9 +34,3 @@ I have experience with the following operating systems and Linux distributions:
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guiliff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiliff&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
-
----
-
-## 📫 Contact
-
-Feel free to reach out via email: **guiliff@protonmail.com**
