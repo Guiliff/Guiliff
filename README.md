@@ -32,5 +32,5 @@ I have experience with the following operating systems and Linux distributions:
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guiliff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiliff&layout=compact&langs_count=8&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Guiliff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=3600"/>
 </div>
