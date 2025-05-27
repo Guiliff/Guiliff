@@ -1,7 +1,7 @@
 ## Hello! I'm Guilherme Licodiedoff
 
 🎓 I hold a Bachelor's degree in Economics and am currently expanding my knowledge through two postgraduate programs: **Computer Engineering** and **Metaverse, Cloud & IoT**.  
-💻 I'm passionate about technology, with a strong focus on **embedded systems**, **operating systems**, and the development of Linux distributions - including a personal project to create a custom ISO focused on **freedom**, **privacy**, and **usability**, even for beginners.  
+💻 I'm passionate about technology, with a strong focus on embedded systems, firmware development, operating systems, and the creation of Linux distributions - including a personal project to build a custom ISO focused on **freedom, privacy, and usability**, even for beginners.  
 🐧 Linux enthusiast.
 
 ----
@@ -12,9 +12,11 @@ I'm currently learning and building projects with the following technologies:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ----
 
