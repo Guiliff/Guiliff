@@ -38,4 +38,4 @@ I have experience with the following operating systems and Linux distributions:
 
 ----
 
-📫 You can also find me on [Mastodon](https://mastodon.social/@guiliff)
+📫 You can also find me on [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@guiliff)
