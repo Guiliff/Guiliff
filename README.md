@@ -1,7 +1,8 @@
 ## Hello! I'm Guilherme Licodiedoff
 
 🎓 I hold a Bachelor's degree in Economics and am currently expanding my knowledge through two postgraduate programs: **Computer Engineering** and **Metaverse, Cloud & IoT**.  
-💻 I'm passionate about technology, with a strong focus on embedded systems, firmware development, operating systems, and the creation of Linux distributions - including a personal project to build a custom ISO focused on **freedom, privacy, and usability**, even for beginners.  
+💻 I'm passionate about technology, with a strong focus on embedded systems, firmware development, operating systems, and the creation of Linux distributions - including [**Coral OS**](https://github.com/Coral-OS), a custom ISO focused on **freedom, privacy, and usability**, even for beginners.
+
 🐧 Linux enthusiast.
 
 ----
@@ -29,13 +30,13 @@ I have experience with the following operating systems and Linux distributions:
 
 ----
 
-## 📊 GitHub Stats
+📫 You can also find me on:
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guiliff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=3600"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiliff&layout=compact&langs_count=8&theme=github_dark&cache_seconds=3600"/>
-</div>
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@guiliff)
 
 ----
 
-📫 You can also find me on [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@guiliff)
+🔧 I'm always open to connecting with other developers, learning from the community, and contributing to exciting open-source projects.  
+If you're working on something cool related to embedded systems, Linux, or privacy-focused tech - let's chat!
+
+Thanks for stopping by 🚀
