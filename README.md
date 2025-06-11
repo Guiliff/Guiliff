@@ -2,7 +2,6 @@
 
 🎓 I hold a Bachelor's degree in Economics and am currently expanding my knowledge through two postgraduate programs: **Computer Engineering** and **Metaverse, Cloud & IoT**.  
 💻 I'm passionate about technology, with a strong focus on embedded systems, firmware development, operating systems, and the creation of Linux distributions - including [**Coral OS**](https://github.com/Coral-OS), a custom ISO focused on **freedom, privacy, and usability**, even for beginners.
-
 🐧 Linux enthusiast.
 
 ----
