@@ -1,8 +1,7 @@
 ## Olá! Eu sou Guilherme Licodiedoff,
 
-🎓 Pós-graduando em **Engenharia da Computação** e **Metaverso, Cloud & IoT**.  
-💻 Apaixonado por tecnologia, com foco especial em sistemas embarcados, desenvolvimento de firmware e sistemas operacionais — incluindo o [**Coral OS**](https://github.com/Coral-OS), uma ISO personalizada voltada para **liberdade, privacidade e usabilidade**, até mesmo para iniciantes.  
-🐧 Entusiasta do Linux.  
+🎓 Economista de formação, pós graduando em **Engenharia da Computação** e **Metaverso, Cloud & IoT**.  
+💻 Entusiasta por tecnologia, com foco especial em sistemas embarcados, desenvolvimento de firmware e sistemas operacionais — incluindo o [**Coral OS**](https://github.com/Coral-OS), uma ISO personalizada voltada para **liberdade, privacidade e usabilidade**, até mesmo para iniciantes.
 
 ----
 
