@@ -1,14 +1,14 @@
-## Hello! I'm Guilherme Licodiedoff
+## Olá! Eu sou Guilherme Licodiedoff,
 
-🎓 I hold a Bachelor's degree in Economics and am currently expanding my knowledge through two postgraduate programs: **Computer Engineering** and **Metaverse, Cloud & IoT**.  
-💻 I'm passionate about technology, with a strong focus on embedded systems, firmware development, operating systems, and the creation of Linux distributions - including [**Coral OS**](https://github.com/Coral-OS), a custom ISO focused on **freedom, privacy, and usability**, even for beginners.  
-🐧 Linux enthusiast.
+🎓 Pós-graduando em **Engenharia da Computação** e **Metaverso, Cloud & IoT**.  
+💻 Apaixonado por tecnologia, com foco especial em sistemas embarcados, desenvolvimento de firmware e sistemas operacionais — incluindo o [**Coral OS**](https://github.com/Coral-OS), uma ISO personalizada voltada para **liberdade, privacidade e usabilidade**, até mesmo para iniciantes.  
+🐧 Entusiasta do Linux.  
 
 ----
 
-## 🧠 Technologies I'm Exploring
+## 🧠 Tecnologias
 
-I'm currently learning and building projects with the following technologies:
+Atualmente estou aprendendo e desenvolvendo projetos com as seguintes tecnologias:
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-2C8C34?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -19,13 +19,10 @@ I'm currently learning and building projects with the following technologies:
 
 ----
 
-📫 You can also find me on:
+📫 Também estou no Mastodon compartilhando mais sobre o dia a dia dos meus estudos e projetos:
 
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@guiliff)
 
 ----
 
-🔧 I'm always open to connecting with other developers, learning from the community, and contributing to exciting open-source projects.  
-If you're working on something cool related to embedded systems, Linux, or privacy-focused tech - let's chat!
-
-Thanks for stopping by 🚀
+🔧  Estou sempre aberto a me conectar com outros desenvolvedores, aprender com a comunidade e contribuir para projetos open-source.
