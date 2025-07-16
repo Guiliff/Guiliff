@@ -26,3 +26,8 @@ Atualmente estou aprendendo e desenvolvendo projetos com as seguintes tecnologia
 ----
 
 🔧  Estou sempre aberto a me conectar com outros desenvolvedores, aprender com a comunidade e contribuir para projetos open-source.
+
+----
+> 🚀 *“Every good work of software starts by scratching a developer's personal itch.”*  
+> — Eric S. Raymond
+
