@@ -1,7 +1,7 @@
 ## Olá! Eu sou Guilherme Licodiedoff,
 
-🎓 Economista de formação, atualmente cursando **Engenharia de Controle e Automação**, além de ser pós-graduando em **Engenharia da Computação** e **Metaverso, Cloud & IoT**.  
-💻 Entusiasta por tecnologia, com foco especial em sistemas embarcados, desenvolvimento de firmware e sistemas operacionais — incluindo o [**Coral OS**](https://github.com/Coral-OS), uma ISO personalizada voltada para **liberdade, privacidade e usabilidade**, até mesmo para iniciantes.
+🎓 Economista de formação, pós graduando em **Engenharia da Computação** e **Metaverso, Cloud & IoT**.  
+💻 Apaixonado por tecnologia, estou direcionando meu foco para o desenvolvimento back-end com Java e Cloud Computing, com o objetivo de construir soluções escaláveis, seguras e eficientes para ambientes corporativos e aplicações web modernas.
 
 ----
 
@@ -9,21 +9,14 @@
 
 Atualmente estou aprendendo e desenvolvendo projetos com as seguintes tecnologias:
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
 
-----
 
-📫 Também estou no Mastodon compartilhando mais sobre o dia a dia dos meus estudos e projetos:
-
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@guiliff)
 
 ----
 
