@@ -1,7 +1,7 @@
 ## Olá! Eu sou Guilherme Licodiedoff,
 
 🎓 Economista de formação, pós graduando em **Engenharia da Computação** e **Metaverso, Cloud & IoT**.  
-💻 Apaixonado por tecnologia, estou direcionando meu foco para o desenvolvimento back-end com Java e Cloud Computing, com o objetivo de construir soluções escaláveis, seguras e eficientes para ambientes corporativos e aplicações web modernas.
+💻 Entusiasta de tecnologia, estou direcionando meu foco para o desenvolvimento back-end com Java e Cloud Computing, com o objetivo de construir soluções escaláveis, seguras e eficientes para ambientes corporativos e aplicações web modernas.
 
 ----
 
