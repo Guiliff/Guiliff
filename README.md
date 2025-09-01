@@ -27,5 +27,4 @@ Atualmente estou aprendendo e desenvolvendo projetos com as seguintes tecnologia
 
 ----
 
-### 📊 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiliff&layout=compact&theme=github_dark)
